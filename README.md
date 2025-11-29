@@ -56,4 +56,4 @@ Se implementa una aplicación de escritorio para interactuar con el sistema:
 
 1.  La clase `Granja` gestiona toda la **suscripción y ejecución** del evento.
 2.  El método `Comer` en cada clase derivada debe ser implementado de forma **personalizada**.
-3.  El sistema debe utilizar el `Guid Id` para garantizar que no haya **duplicados**.
+3.  El sistema debe utilizar el `Nombre` para garantizar que no haya **duplicados**.
